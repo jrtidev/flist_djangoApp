@@ -1,0 +1,466 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"send_message"
+			],
+			[
+				"te",
+				"teamLinkId"
+			],
+			[
+				"base",
+				"base_r"
+			],
+			[
+				"get_",
+				"get_link"
+			],
+			[
+				"de",
+				"decrypted_message"
+			],
+			[
+				"contact",
+				"contact_message"
+			],
+			[
+				"send",
+				"send_mail"
+			],
+			[
+				"fo",
+				"forms"
+			],
+			[
+				"f",
+				"forms"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"Si",
+				"SignUp"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"h1",
+				"h1\tTag"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"goo",
+				"goodsForm"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"Sig",
+				"SignUpForm"
+			],
+			[
+				"tra",
+				"transactionStake"
+			],
+			[
+				"after",
+				"after_game"
+			],
+			[
+				"win",
+				"win_coef"
+			],
+			[
+				"mat",
+				"matching_balls"
+			],
+			[
+				"chose",
+				"chose_balls"
+			],
+			[
+				"guest",
+				"guest_name"
+			],
+			[
+				"gu",
+				"guest_email"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"user",
+				"User"
+			],
+			[
+				"n",
+				"None"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"H",
+				"H1\tTag"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"ema",
+				"email_body"
+			],
+			[
+				"sen",
+				"sender_pwd"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"m",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "jso",
+		"selected_items":
+		[
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tarartem/Desktop/PYTHON/flist"
+	],
+	"file_history":
+	[
+		"/Users/tarartem/Desktop/liqpay",
+		"/Users/tarartem/Downloads/CesarCipher-2.py",
+		"/Users/tarartem/Desktop/PYTHON/ForgotenList/forgotenList.py",
+		"/Users/tarartem/Downloads/twitterStream.py",
+		"/Users/tarartem/Desktop/PYTHON/CesarCipher.py",
+		"/Users/tarartem/Desktop/PYTHON/forgotenList.py",
+		"/Users/tarartem/Desktop/PYTHON/Lotto/lotto_v1.py",
+		"/Users/tarartem/Desktop/PYTHON/totalTweetsCount.py",
+		"/Users/tarartem/Desktop/PYTHON/MicroblogApp/app/views.py",
+		"/Users/tarartem/Downloads/twitter-1.17.1/setup.py",
+		"/Users/tarartem/Desktop/soccerMine.py",
+		"/Users/tarartem/Desktop/scraperFootballua.py",
+		"/Users/tarartem/Downloads/parse_footballua_asr.py",
+		"/Users/tarartem/Desktop/lotto_new.py",
+		"/Users/tarartem/Downloads/prematch.json",
+		"/Users/tarartem/Downloads/CesarCipher.py",
+		"/Users/tarartem/Downloads/tweepy-master/tweepy/streaming.py",
+		"/Users/tarartem/Downloads/tweepy-master/setup.py",
+		"/Users/tarartem/Desktop/PYTHON/turtle.py",
+		"/Users/tarartem/Desktop/PYTHON/draw_maschine.py",
+		"/Users/tarartem/Desktop/мерлин_files/watch.js",
+		"/Users/tarartem/Desktop/PYTHON/trydjango18/src/db.sqlite3",
+		"/Users/tarartem/Desktop/PYTHON/trydjango18/src/trydjango18/settings.py",
+		"/Users/tarartem/Desktop/PYTHON/trydjango18/src/newsletter/admin.py",
+		"/Users/tarartem/Desktop/PYTHON/trydjango18/src/newsletter/models.py",
+		"/Users/tarartem/Desktop/PYTHON/trydjango18/src/newsletter/templates/home.html",
+		"/Users/tarartem/Desktop/PYTHON/Lotto/lotto_new.py",
+		"/Users/tarartem/Desktop/PYTHON/Lotto/lotto_new — копия.py",
+		"/Users/tarartem/Desktop/PYTHON/lotto_new.py",
+		"/Users/tarartem/Desktop/PYTHON/Django/ForgotenList/mysite/db.sqlite3",
+		"/Users/tarartem/Desktop/PYTHON/guess.py",
+		"/Users/tarartem/Desktop/PYTHON/lotto.py",
+		"/Users/tarartem/Desktop/PYTHON/Django/ForgotenList/mysite/flapp/urls.py",
+		"/Users/tarartem/Desktop/PYTHON/Django/ForgotenList/mysite/flapp/models.py",
+		"/Users/tarartem/Desktop/PYTHON/Django/ForgotenList/mysite/flapp/views.py",
+		"/Users/tarartem/Desktop/PYTHON/Django/ForgotenList/mysite/mysite/settings.py",
+		"/Users/tarartem/Desktop/PYTHON/Django/ForgotenList/mysite/mysite/urls.py",
+		"/Users/tarartem/Desktop/index.html",
+		"/Users/tarartem/Desktop/PYTHON/Django/ForgotenList/mysite/```",
+		"/Users/tarartem/Desktop/PYTHON/Django/ForgotenList/mysite/manage.py",
+		"/Users/tarartem/Desktop/PYTHON/Django/flapp/forglist/urls.py",
+		"/Users/tarartem/Desktop/PYTHON/Django/flapp/forglist/views.py",
+		"/Users/tarartem/Desktop/PYTHON/Django/flapp/flapp/urls.py",
+		"/Users/tarartem/Downloads/Aerial-master/Readme.md",
+		"/Users/tarartem/Desktop/PYTHON/ForgotenList/forgList/config.py",
+		"/Users/tarartem/Desktop/PYTHON/ForgotenList/forgList/app/forms.py",
+		"/Users/tarartem/Desktop/PYTHON/ForgotenList/forgList/run.py",
+		"/Users/tarartem/Desktop/PYTHON/ForgotenList/forgList/app/views.py",
+		"/Users/tarartem/Desktop/PYTHON/ForgotenList/forgList/app/__init__.py",
+		"/Users/tarartem/Desktop/PYTHON/ForgotenList/forgList/app/view.py",
+		"/Users/tarartem/Downloads/microblog-0.5/app/templates/base.html",
+		"/Users/tarartem/Desktop/PYTHON/MicroblogApp/app/templates/base.html",
+		"/Users/tarartem/Downloads/microblog-0.5/app/templates/index.html",
+		"/Users/tarartem/Desktop/TEST/mokap/index.html",
+		"/Users/tarartem/Desktop/PYTHON/MicroblogApp/app/templates/index.html",
+		"/Users/tarartem/Desktop/PYTHON/MicroblogApp/app/templates/login.html",
+		"/Users/tarartem/Downloads/microblog-version-0.2/app/templates/index.html",
+		"/Users/tarartem/Desktop/TEST/portfolio/index.html",
+		"/Users/tarartem/Desktop/TEST/mokap/style.css",
+		"/Users/tarartem/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/tarartem/Desktop/TEST/index.html",
+		"/Users/tarartem/Downloads/НЃҐ†п ѓ†ѓ™†/html/styles.css",
+		"/Users/tarartem/Downloads/НЃҐ†п ѓ†ѓ™†/html/index.html",
+		"/Users/tarartem/Desktop/PYTHON/Send Message/send_message_2.0.py",
+		"/Users/tarartem/Downloads/index (1).html",
+		"/Users/tarartem/Desktop/TEST/CSS/style.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Stream",
+			"Straem",
+			"Sraem",
+			"listener",
+			"Stream",
+			"twitterStream",
+			"streM",
+			")\n",
+			"%%",
+			"vip",
+			"stakes",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "flist.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
