@@ -16,4 +16,9 @@ def add_guest(request):
 			guests[guestName][guestName]=guestEmail
 		else: 
 			form = GuestForm()
-	return render(request, 'main/main.html', {'form': form})
+	return render(request, 'main/guests.html', {'guestName': guestName, 'guestEmail':guestEmail})
+
+def test(request):
+	user = list(guests.keys())[1]
+
+	return render(request, 'main/main.html', {'user':user})
