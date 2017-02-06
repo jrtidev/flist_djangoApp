@@ -10,7 +10,23 @@
 <div class="page-header">
   <h1>
 	<span class="glyphicon glyphicon-th-list" aria-hidden="true"></span>
-  Forgotten List <small>this app will help you to make your event just perfect!</small></h1>
+  	Forgotten List <small>this app will help you to make your event just perfect!</small>
+  	</h1>
+</div>
+<div>
+	<form action="main.html" method="post" class="form-inline">
+	{% csrf_token %}
+    {{ form }}
+		<div class="form-group">
+			<label for="guestName">Name</label>
+			<input type="text" class="form-control" id="guestName" placeholder="Guest name">
+		</div>
+		<div class="form-group">
+			<label for="guestEmail">Email</label>
+			<input type="Email" class="form-control" id="guestEmail" placeholder="Guest email">			
+		</div>
+		<button type="submit" class="btn btn-default">Add to guests</button>
+	</form>
 </div>
 </body>
 </html>
