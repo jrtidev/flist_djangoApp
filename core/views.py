@@ -1,24 +1,27 @@
 from django.shortcuts import render, HttpResponse
 from .forms import GuestForm
+import json
+import smtplib
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
 
 guests = {}
-# Create your views here.
 def main(request):
-	return render(request, 'main/main.html')
-
-#form for adding guest
-def add_guest(request):
-	if request.method == 'POST':
-		form = GuestForm(request.POST)
-		if form.is_valid():
-			guestName = form.cleaned_data['guestName']
-			guestEmail = form.cleaned_data['guestEame']
-			guests[guestName][guestName]=guestEmail
-		else: 
-			form = GuestForm()
-	return render(request, 'main/guests.html', {'guestName': guestName, 'guestEmail':guestEmail})
-
-def test(request):
-	user = list(guests.keys())[1]
-
-	return render(request, 'main/main.html', {'user':user})
+	title = 'Application title'
+	addGuestMessage = 'Please enter name and email of your guest'
+	form = GuestForm(request.POST or None)
+	if form.is_valid():
+		guest = form.cleaned_data['guestName']
+		email = form.cleaned_data['guestEmail']
+		if email in guests.values():
+			print('Dublicate guest')
+		else:
+			guests[guest]=email
+			print(guests)
+		form = GuestForm()
+	context={
+		'form':form,
+		'addGuestMessage':addGuestMessage,
+		'guests':guests,
+	}
+	return render(request, 'main/main.html', context)
