@@ -65,7 +65,7 @@ def addAccount(request):
 		form = RegistrationForm(request.POST)
 		if form.is_valid():
 			form.save()
-			return redirect('/addguest/')
+			return redirect('main/addguest/')
 	else:
 		form = RegistrationForm()
 		
